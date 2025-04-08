@@ -1,5 +1,8 @@
 # Plant_disease_Identification
 ![home_page](https://github.com/user-attachments/assets/6fa93aaa-2b53-418d-a21d-4310a81b4a9e)
+
+ 
+ 
  Welcome to the Plant Disease Recognition System! 🌿🔍
     
     Our mission is to help in identifying plant diseases efficiently. Upload an image of a plant, and our system will analyze it to detect any signs of diseases. Together, let's protect our crops and ensure a healthier harvest!
